@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @giabao06, a (nerdy) Vietnamese high school student
+- 🤖️ Currently a maintainer of https://github.com/SakuraKaslana/angelina-chan-sc
 - 👀 I’m interested in writing minecraft mods or sth idk
-- 🌱 I’m currently learning Kotlin (python planned)
+- 🌱 I’m currently learning Kotlin (python, js and Discord.js planned)
 - 💞️ I’m looking to collaborate on bug reporting first lol
 - 📫 Reach me via email: giabao.nguyenpham@e.email
 
