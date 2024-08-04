@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @giabao06, a (nerdy) Vietnamese high school student
-- 🤖️ Currently a co-author of https://github.com/SakuraKaslana/angelina-chan-sc
-- 👀 I’m interested in writing minecraft mods or sth idk
-- 🌱 I’m currently learning Kotlin (python, js and Discord.js planned)
-- 💞️ I’m looking to collaborate on bug reporting first lol
-- 📫 Reach me via email: giabao.nguyenpham@e.email or Discord: giabao06#2370
-- 📺️ My dead youtube channel (that I almost never upload to): https://www.youtube.com/channel/UCM7Th5ip388UuLo-kVVPQIg
+<div align="center">
+  
+## hello, this is Bảo.
+  
+I go by *r. chômage* over on my socials
 
-<!---
-giabao06/giabao06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Twitter/X](https://x.com/giabao06_), [Bluesky](https://bsky.app/profile/giabao06.bsky.social) and ofc [Facebook](https://fb.com/chmg.rin)
+
+Current efforts go to [team-nameless/msoc-web](https://github.com/team-nameless/msoc-web) and [our daughter, reborn.](https://github.com/giabao06/angelina-reborn)
+
+I know cpp, js and *maybe* a little bit of csharp and python.
+
+reach me via [email](mailto:giabao.nguyenpham@e.email) or discord @giabao06.
+
+</div>
+
+<span style="font-size:0.2em;">*hopefully this will get less empty when I have some stuff to show off</span>
