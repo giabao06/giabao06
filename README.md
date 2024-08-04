@@ -10,7 +10,7 @@ Current efforts go to [team-nameless/msoc-web](https://github.com/team-nameless/
 
 I know cpp, js and *maybe* a little bit of csharp and python.
 
-reach me via [email](mailto:giabao.nguyenpham@e.email) or discord @giabao06.
+reach me via [email](mailto:giabao.nguyenpham@e.email) or discord `@giabao06`.
 
 </div>
 
