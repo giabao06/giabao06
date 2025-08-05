@@ -38,7 +38,6 @@ I am mostly active on Discord (`@giabao06`). Should you need to formally contact
 ---
 
 <div align="center">
-<br>
     <img src="./options.png" height="175">
     <br>
     <a href="https://www.youtube.com/watch?v=knXGYSdtr_k"><i>Information alone is not enough, We also meed the meaning of that information.</i></a>
