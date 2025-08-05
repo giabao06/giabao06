@@ -10,7 +10,7 @@ For now, my highest profile projects are at [**Arknights VNS**](https://github.c
 
 <div align="center">
 
-<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=giabao06&theme=catppuccin_mocha&hide=contribs,stars">
+<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=giabao06&theme=catppuccin_mocha&hide=contribs,stars&include_all_commits=true&count_private=true">
 <br><br>
 <img alt="My Skills" src="https://skillicons.dev/icons?i=js,cpp,html,bootstrap,debian,mint">
 <br><br>
