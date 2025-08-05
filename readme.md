@@ -13,11 +13,15 @@ For now, my highest profile projects are at [**Arknights VNS**](https://github.c
 <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=giabao06&theme=catppuccin_mocha&hide=contribs,stars">
 <br><br>
 <img alt="My Skills" src="https://skillicons.dev/icons?i=js,cpp,html,bootstrap,debian,mint">
-<br>
+<br><br>
+<div id="buttons">
+    <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/9AC7D13A0721DAEBFF47A983024FC1E8CE2EA99F"><img alt="Public Key" src="https://img.shields.io/badge/OpenPGP-Public_Key-blue"></a>
+    <img src="https://img.shields.io/badge/Home_Server-6.1.0-a81d33?logo=debian" alt="home server">
+    <img src="https://img.shields.io/badge/AiScream-Choco Minto-86be43?logo=linuxmint">
+</div>
 </div>
 
 <div align="center">
-<br>
 <h1>Hobbies and Gaming</h1>
 </div>
 
