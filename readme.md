@@ -6,11 +6,10 @@
 
 My full name *should* be listed on the GitHub profile, but it can be shortened into Bao Nguyen. I started programming at about 2018-19 doing competitive programming, but now I *mostly* do web development (backend) and Linux sysadmin, as well as some *stuff as it interests me*.
 
-For now, my highest profile projects are at [**Arknights VNS**](https://github.com/arknights-vns) for their event (Offline 2025). *(thanks @ShiinaKochiya and @swyrin)*
+For now, my highest profile projects are at [**Arknights VNS**](https://github.com/arknights-vns) for their event (Offline 2025). *(thanks [@ShiinaKochiya](https://github.com/ShiinaKochiya) and [@swyrin](https://github.com/swyrin))*
 
 <div align="center">
 
-<br>
 <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=giabao06&theme=catppuccin_mocha&hide=contribs,stars">
 <br><br>
 <img alt="My Skills" src="https://skillicons.dev/icons?i=js,cpp,html,bootstrap,debian,mint">
