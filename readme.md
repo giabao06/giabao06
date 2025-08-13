@@ -1,5 +1,3 @@
-<img width="909" height="877" alt="image" src="https://github.com/user-attachments/assets/838390b2-65ea-454c-a563-48fd63f92be0" /><div align="center">
-
 <h1>Hello there!</h1>
 
 </div>
