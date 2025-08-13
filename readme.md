@@ -1,4 +1,4 @@
-<div align="center">
+<img width="909" height="877" alt="image" src="https://github.com/user-attachments/assets/838390b2-65ea-454c-a563-48fd63f92be0" /><div align="center">
 
 <h1>Hello there!</h1>
 
@@ -16,8 +16,8 @@ For now, my highest profile projects are at [**Arknights VNS**](https://github.c
 <br><br>
 <div id="buttons">
     <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/9AC7D13A0721DAEBFF47A983024FC1E8CE2EA99F"><img alt="Public Key" src="https://img.shields.io/badge/OpenPGP-Public_Key-blue"></a>
-    <img src="https://img.shields.io/badge/Home_Server-6.1.0-a81d33?logo=debian" alt="home server">
-    <img src="https://img.shields.io/badge/AiScream-Choco Minto-86be43?logo=linuxmint">
+    <img src="https://img.shields.io/badge/Stable-Servers-a81d33?logo=debian" alt="home server">
+    <a href="https://www.youtube.com/watch?v=L1mFVp9IM9c"><img src="https://img.shields.io/badge/AiScream-Choco Minto-86be43?logo=linuxmint"></a>
 </div>
 </div>
 
