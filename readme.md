@@ -36,8 +36,8 @@ If you live in HCMC and frequent *certain* arcades, you may meet me playing `mai
 I am mostly active on Discord (`@giabao06`). Should you need to formally contact me for non-job related matters, you can [email me](mailto:hello@giabao06.xyz).
 
 <div align="center">
-    <a href="https://discord.com/users/467284188568223744"><img src="https://discord.c99.nl/widget/theme-2/467284188568223744.png" alt="discord banner thing></a>
-                       <br><br>                                     
+    <a href="https://discord.com/users/467284188568223744"><img src="https://discord.c99.nl/widget/theme-2/467284188568223744.png" alt="discord banner thing"></a>
+                       <br>                              
 </div>
 
 ---
