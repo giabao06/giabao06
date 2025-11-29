@@ -37,7 +37,7 @@ I am mostly active on Discord (`@giabao06`). Should you need to formally contact
 
 <div align="center">
     <a href="https://discord.com/users/467284188568223744"><img src="https://discord.c99.nl/widget/theme-2/467284188568223744.png" alt="discord banner thing></a>
-                                                            
+                       <br><br>                                     
 </div>
 
 ---
