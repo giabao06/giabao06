@@ -9,9 +9,7 @@ My full name *should* be listed on the GitHub profile, but it can be shortened i
 For now, my highest profile projects are at [**Arknights VNS**](https://github.com/arknights-vns) for their event (Offline 2025). *(thanks [@ShiinaKochiya](https://github.com/ShiinaKochiya) and [@swyrin](https://github.com/swyrin))*
 
 <div align="center">
-
-<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=giabao06&theme=catppuccin_mocha&hide=contribs,stars&include_all_commits=true&count_private=true">
-<br><br>
+    
 <img alt="My Skills" src="https://skillicons.dev/icons?i=js,cpp,html,bootstrap,debian,mint">
 <br><br>
 <div id="buttons">
