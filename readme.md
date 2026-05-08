@@ -50,3 +50,7 @@ I am mostly active on Discord (`@giabao06`). Should you need to formally contact
     <i>- Options</i>
 </div>
 
+---
+
+The profile picture was a commission done by [Aririn](https://vgen.co/Ari33_06), who did a fantastic job <(")
+
