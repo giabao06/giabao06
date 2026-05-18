@@ -38,15 +38,5 @@ I am mostly active on Discord (`@giabao06`). Should you need to formally contact
 
 ---
 
-<div align="center">
-    <img src="./options.png" height="175">
-    <br>
-    <a href="https://www.youtube.com/watch?v=knXGYSdtr_k"><i>Information alone is not enough, We also meed the meaning of that information.</i></a>
-    <br>
-    <i>- Options</i>
-</div>
-
----
-
 The profile picture was a commission done by [Aririn](https://vgen.co/Ari33_06), who did a fantastic job <(")
 
